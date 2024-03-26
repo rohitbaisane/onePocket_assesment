@@ -1,0 +1,3 @@
+Hello   my Name is Rohit, I am software developer with total 1 year of experience.
+I have solved 300+ problems on leetcode.
+I am familiar with tech stacks like express js,Mongodb,Mysql,Aws(Basic); 
